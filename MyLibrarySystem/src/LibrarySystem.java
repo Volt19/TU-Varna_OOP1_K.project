@@ -3,6 +3,11 @@ import models.*;
 import java.io.*;
 import java.util.*;
 
+
+/**
+ * Main method of the program
+ */
+
 public class LibrarySystem {
     private static final String BOOKS_FILE = "books.dat";
     private static final String USERS_FILE = "users.dat";
