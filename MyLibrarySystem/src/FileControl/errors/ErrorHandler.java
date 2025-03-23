@@ -1,6 +1,6 @@
 package FileControl.errors;
 
-import bg.tu_varna.sit.FileConstants;
+import FileControl.FileConstants;
 
 import java.io.FileWriter;
 import java.io.IOException;
